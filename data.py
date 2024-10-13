@@ -1,0 +1,1 @@
+WEATHER = range(1)
